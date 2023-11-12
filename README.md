@@ -1,5 +1,4 @@
 # SelfReviveMultiplayer
-muck mod for Self Revive but for Multiplayer 
+muck mod for Set Revive Time To 10 Sec
 <br>
-Updates : <br>
-Fix Bug Of Revive After Game End
+Created To Make EvenHarderMuck More Easy
